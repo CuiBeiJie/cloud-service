@@ -22,12 +22,12 @@ spring:
   mail:
     default-encoding: UTF-8
     host: smtp.163.com
-    username:
-    password:
+    username: 15655562705@163.com
+    password: cf703861
     protocol: smtp
     test-connection: false
-#    properties:
-#      mail.smtp.auth: true
+    properties:
+     mail.smtp.auth: true
   mvc:
     servlet:
       load-on-startup: 1
