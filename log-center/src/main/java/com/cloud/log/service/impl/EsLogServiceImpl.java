@@ -43,7 +43,7 @@ import com.cloud.model.log.Log;
 /**
  * 日志存储到elasticsearch实现
  *
- * @author 小威老师 xiaoweijiagou@163.com
+ * @author cuibeijie cuibeijie@163.com
  */
 //@Service
 public class EsLogServiceImpl implements LogService, ApplicationContextAware {

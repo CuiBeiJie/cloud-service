@@ -14,7 +14,7 @@ import com.cloud.backend.model.Menu;
  * 角色菜单关系<br>
  * 角色和菜单是多对多关系，role_menu是中间表
  *
- * @author 小威老师
+ * @author cuibeijie
  */
 @Mapper
 public interface RoleMenuDao {
